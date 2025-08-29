@@ -1,40 +1,4 @@
-{
-  "games": [
-    { "id": 1, "title": "Resident Evil", "release_year": 1996 },
-    { "id": 2, "title": "Resident Evil 2", "release_year": 1998 },
-    { "id": 3, "title": "Resident Evil 3: Nemesis", "release_year": 1999 },
-    { "id": 4, "title": "Resident Evil Code: Veronica", "release_year": 2000 },
-    { "id": 5, "title": "Resident Evil Zero", "release_year": 2002 },
-    { "id": 6, "title": "Resident Evil 4", "release_year": 2005 },
-    { "id": 7, "title": "Resident Evil 5", "release_year": 2009 },
-    { "id": 8, "title": "Resident Evil 6", "release_year": 2012 },
-    { "id": 9, "title": "Resident Evil 7: Biohazard", "release_year": 2017 },
-    { "id": 10, "title": "Resident Evil Village", "release_year": 2021 },
-    { "id": 11, "title": "Resident Evil Requiem", "release_year": 2026 },
-    { "id": 100, "title": "Resident Evil (Remake)", "release_year": 2002 },
-    { "id": 101, "title": "Resident Evil (HD Remaster)", "release_year": 2015 },
-    { "id": 102, "title": "Resident Evil 0 (HD Remaster)", "release_year": 2016 },
-    { "id": 103, "title": "Resident Evil 2 (Remake)", "release_year": 2019 },
-    { "id": 104, "title": "Resident Evil 3 (Remake)", "release_year": 2020 },
-    { "id": 105, "title": "Resident Evil 4 (Remake)", "release_year": 2023 }
-  ],
-  "games2": [
-    { "id": 106, "title": "Resident Evil 4 Gold Edition", "release_year": 2024 },
-    { "id": 200, "title": "Resident Evil Survivor", "release_year": 2000 },
-    { "id": 201, "title": "Resident Evil Gaiden", "release_year": 2001 },
-    { "id": 202, "title": "Resident Evil Survivor 2 – Code: Veronica", "release_year": 2002 },
-    { "id": 203, "title": "Resident Evil Outbreak", "release_year": 2003 },
-    { "id": 204, "title": "Resident Evil: Dead Aim", "release_year": 2003 },
-    { "id": 205, "title": "Resident Evil Outbreak File #2", "release_year": 2004 },
-    { "id": 206, "title": "Resident Evil: The Umbrella Chronicles", "release_year": 2007 },
-    { "id": 207, "title": "Resident Evil: The Darkside Chronicles", "release_year": 2009 },
-    { "id": 208, "title": "Resident Evil: The Mercenaries 3D", "release_year": 2011 },
-    { "id": 209, "title": "Resident Evil: Revelations", "release_year": 2012 },
-    { "id": 210, "title": "Resident Evil: Operation Raccoon City", "release_year": 2012 },
-    { "id": 211, "title": "Resident Evil 5: Gold Edition", "release_year": 2010 },
-    { "id": 212, "title": "Resident Evil: Revelations 2", "release_year": 2015 },
-    { "id": 213, "title": "Resident Evil Extra Modes", "ummodes": ["strict", "balanced", "minimal"] }
-  ],
+
   "characters": [
     {
       "id": 1,
@@ -206,5 +170,6 @@
     }
   ]
 }
+
 
 
