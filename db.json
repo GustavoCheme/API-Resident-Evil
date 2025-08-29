@@ -17,6 +17,7 @@
     { "id": 103, "title": "Resident Evil 2 (Remake)", "release_year": 2019 },
     { "id": 104, "title": "Resident Evil 3 (Remake)", "release_year": 2020 },
     { "id": 105, "title": "Resident Evil 4 (Remake)", "release_year": 2023 },
+  ] "games2": [
     { "id": 106, "title": "Resident Evil 4 Gold Edition", "release_year": 2024 },
     { "id": 200, "title": "Resident Evil Survivor", "release_year": 2000 },
     { "id": 201, "title": "Resident Evil Gaiden", "release_year": 2001 },
@@ -204,3 +205,4 @@
     }
   ]
 }
+
