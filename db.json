@@ -35,7 +35,6 @@
     { "id": 212, "title": "Resident Evil: Revelations 2", "release_year": 2015 },
     { "id": 213, "title": "Resident Evil Extra Modes", "ummodes": ["strict", "balanced", "minimal"] }
   ],
-  {
   "characters": [
     {
       "id": 1,
@@ -114,7 +113,7 @@
       "nome": "Nemesis",
       "organizacao": "Umbrella Corporation",
       "habilidades_principais": "Força sobre-humana, rastreamento, armamento biológico",
-      "feitos_notaveis": "Perseguição de membros da S.T.A.R.S. em Raccoon City, demonstração de poder do vírus T",
+      "feitos_notaveis": "Perseguição de membros da S.T.A.R.S. in Raccoon City, demonstração de poder do vírus T",
       "ementa": "Bioarma implacável da Umbrella, Nemesis foi projetado para eliminar alvos específicos com força brutal."
     },
     {
