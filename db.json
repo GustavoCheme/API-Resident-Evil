@@ -35,174 +35,175 @@
     { "id": 212, "title": "Resident Evil: Revelations 2", "release_year": 2015 },
     { "id": 213, "title": "Resident Evil Extra Modes", "ummodes": ["strict", "balanced", "minimal"] }
   ],
+  {
   "characters": [
     {
       "id": 1,
       "nome": "Chris Redfield",
-      "professor": "Roger Craig Smith (voz em RE5/RE6)",
-      "area_conhecimento": "BSAA / Ex-S.T.A.R.S.",
-      "carga_horaria_semanal": 7,
-      "ementa": "Ex-membro da S.T.A.R.S. e cofundador da BSAA, Chris é um dos principais protagonistas da série, enfrentando ameaças bioterroristas desde os eventos de Raccoon City."
+      "organizacao": "S.T.A.R.S. / BSAA",
+      "habilidades_principais": "Combate tático, liderança, resistência física, investigação",
+      "feitos_notaveis": "Sobrevivente do Incidente da Mansão Spencer, cofundador da BSAA, derrota de Albert Wesker em RE5",
+      "ementa": "Ex-membro da S.T.A.R.S. e líder da BSAA, Chris Redfield é um dos principais combatentes contra o bioterrorismo, enfrentando ameaças desde Raccoon City até crises globais."
     },
     {
       "id": 2,
       "nome": "Jill Valentine",
-      "professor": "Michelle Ruff (voz em RE5)",
-      "area_conhecimento": "S.T.A.R.S. / BSAA",
-      "carga_horaria_semanal": 6,
-      "ementa": "Especialista em infiltração e demolições, Jill é uma heroína icônica que sobreviveu aos horrores da Mansão Spencer e de Raccoon City."
+      "organizacao": "S.T.A.R.S. / BSAA",
+      "habilidades_principais": "Infiltração, demolições, combate tático, sobrevivência",
+      "feitos_notaveis": "Sobrevivente do Incidente da Mansão Spencer, destruição da Umbrella em Raccoon City, confronto com Nemesis",
+      "ementa": "Jill Valentine é uma agente altamente treinada, conhecida por sua coragem e habilidades táticas, desempenhando papéis cruciais na luta contra a Umbrella Corporation."
     },
     {
       "id": 3,
       "nome": "Albert Wesker",
-      "professor": "Richard Waugh (voz em RE Code Veronica/RE4)",
-      "area_conhecimento": "Umbrella Corporation / Vilão",
-      "carga_horaria_semanal": 5,
-      "ementa": "Ex-capitão da S.T.A.R.S. e agente duplo da Umbrella, Wesker é o principal vilão da série, manipulando eventos em busca de poder e evolução viral."
+      "organizacao": "Umbrella Corporation / Independente",
+      "habilidades_principais": "Manipulação, combate avançado, inteligência estratégica, bioengenharia",
+      "feitos_notaveis": "Traição da S.T.A.R.S., desenvolvimento de vírus para evolução humana, confronto final em RE5",
+      "ementa": "Ex-capitão da S.T.A.R.S. e agente duplo da Umbrella, Wesker é o principal antagonista da série, buscando poder através de manipulações e armas biológicas."
     },
     {
       "id": 4,
       "nome": "Rebecca Chambers",
-      "professor": "Desconhecido",
-      "area_conhecimento": "S.T.A.R.S. / Médica",
-      "carga_horaria_semanal": 3,
-      "ementa": "Médica da equipe S.T.A.R.S., Rebecca é uma sobrevivente dos incidentes da Mansão Spencer e do surto de Raccoon City."
+      "organizacao": "S.T.A.R.S. / BSAA",
+      "habilidades_principais": "Medicina de campo, análise química, sobrevivência",
+      "feitos_notaveis": "Sobrevivente do Incidente da Mansão Spencer, apoio médico em RE0 e RE1",
+      "ementa": "Médica da equipe S.T.A.R.S., Rebecca combina habilidades médicas com coragem, sobrevivendo a eventos traumáticos em Raccoon City."
     },
     {
       "id": 5,
       "nome": "Leon S. Kennedy",
-      "professor": "Paul Mercier (voz em RE4)",
-      "area_conhecimento": "Agente Especial do Governo dos EUA",
-      "carga_horaria_semanal": 6,
-      "ementa": "Ex-policial de Raccoon City, Leon se tornou agente do governo, protagonizando missões como o resgate de Ashley Graham em RE4."
+      "organizacao": "Polícia de Raccoon City / Governo dos EUA",
+      "habilidades_principais": "Combate armado, infiltração, resgate, sobrevivência",
+      "feitos_notaveis": "Sobrevivente do surto de Raccoon City, resgate de Ashley Graham em RE4, combate ao vírus C em RE6",
+      "ementa": "De policial novato a agente especial, Leon é um herói resiliente que enfrenta ameaças bioterroristas em missões de alto risco."
     },
     {
       "id": 6,
       "nome": "Claire Redfield",
-      "professor": "Alyson Court (voz em RE2/Code Veronica)",
-      "area_conhecimento": "Ativista da TerraSave",
-      "carga_horaria_semanal": 4,
-      "ementa": "Irmã de Chris Redfield, Claire é uma sobrevivente de Raccoon City e ativista da TerraSave, enfrentando ameaças bioterroristas."
+      "organizacao": "TerraSave",
+      "habilidades_principais": "Sobrevivência, combate, investigação, ativismo",
+      "feitos_notaveis": "Sobrevivente de Raccoon City, luta contra a Umbrella em Code Veronica, ativismo na TerraSave",
+      "ementa": "Irmã de Chris Redfield, Claire é uma sobrevivente determinada e ativista da TerraSave, enfrentando bioterrorismo com coragem."
     },
     {
       "id": 7,
       "nome": "Ada Wong",
-      "professor": "Desconhecido",
-      "area_conhecimento": "Espiã / Agente Independente",
-      "carga_horaria_semanal": 5,
-      "ementa": "Misteriosa espiã que trabalha para interesses próprios, frequentemente cruzando caminhos com Leon Kennedy em missões perigosas."
+      "organizacao": "Independente",
+      "habilidades_principais": "Espionagem, combate furtivo, manipulação, tecnologia",
+      "feitos_notaveis": "Auxílio a Leon em Raccoon City e RE4, aquisição de amostras virais para clientes secretos",
+      "ementa": "Misteriosa espiã, Ada Wong opera nas sombras, cruzando caminhos com Leon Kennedy enquanto persegue seus próprios objetivos."
     },
     {
       "id": 8,
       "nome": "Sherry Birkin",
-      "professor": "Desconhecido",
-      "area_conhecimento": "Sobrevivente / Agente Especial",
-      "carga_horaria_semanal": 3,
-      "ementa": "Filha de cientistas da Umbrella, Sherry sobreviveu ao surto de Raccoon City e se tornou agente especial em RE6."
+      "organizacao": "Governo dos EUA",
+      "habilidades_principais": "Resistência biológica, combate, sobrevivência",
+      "feitos_notaveis": "Sobrevivente de Raccoon City, combate ao vírus C em RE6, imunidade ao vírus G",
+      "ementa": "Filha de cientistas da Umbrella, Sherry superou traumas de infância para se tornar uma agente especial resiliente."
     },
     {
       "id": 9,
       "nome": "Carlos Oliveira",
-      "professor": "Desconhecido",
-      "area_conhecimento": "U.B.C.S. / Mercenário",
-      "carga_horaria_semanal": 2,
-      "ementa": "Mercenário da Umbrella que ajudou Jill Valentine a escapar de Raccoon City durante o surto do vírus T."
+      "organizacao": "U.B.C.S.",
+      "habilidades_principais": "Combate, táticas de guerrilha, sobrevivência",
+      "feitos_notaveis": "Auxílio a Jill Valentine em Raccoon City, sobrevivência ao surto do vírus T",
+      "ementa": "Mercenário da Umbrella, Carlos demonstrou lealdade e coragem ao ajudar Jill a escapar do caos de Raccoon City."
     },
     {
       "id": 10,
       "nome": "Nemesis",
-      "professor": "N/A",
-      "area_conhecimento": "Bioarma / Vilão",
-      "carga_horaria_semanal": 2,
-      "ementa": "Criatura bio-orgânica criada pela Umbrella, projetada para eliminar membros da S.T.A.R.S. em Raccoon City."
+      "organizacao": "Umbrella Corporation",
+      "habilidades_principais": "Força sobre-humana, rastreamento, armamento biológico",
+      "feitos_notaveis": "Perseguição de membros da S.T.A.R.S. em Raccoon City, demonstração de poder do vírus T",
+      "ementa": "Bioarma implacável da Umbrella, Nemesis foi projetado para eliminar alvos específicos com força brutal."
     },
     {
       "id": 11,
       "nome": "Alexia Ashford",
-      "professor": "Desconhecido",
-      "area_conhecimento": "Umbrella Corporation / Vilã",
-      "carga_horaria_semanal": 1,
-      "ementa": "Cientista brilhante da Umbrella, Alexia desenvolveu o vírus T-Veronica e buscou dominar o mundo em Code Veronica."
+      "organizacao": "Umbrella Corporation",
+      "habilidades_principais": "Bioengenharia, manipulação genética, combate viral",
+      "feitos_notaveis": "Criação do vírus T-Veronica, tentativa de dominação global em Code Veronica",
+      "ementa": "Gênio científico da Umbrella, Alexia Ashford buscou poder supremo através do vírus T-Veronica."
     },
     {
       "id": 12,
       "nome": "Steve Burnside",
-      "professor": "Desconhecido",
-      "area_conhecimento": "Prisioneiro / Sobrevivente",
-      "carga_horaria_semanal": 1,
-      "ementa": "Jovem prisioneiro que se junta a Claire Redfield na luta contra a Umbrella em Code Veronica."
+      "organizacao": "Nenhuma",
+      "habilidades_principais": "Combate, sobrevivência, resistência",
+      "feitos_notaveis": "Apoio a Claire Redfield em Code Veronica, luta contra a Umbrella",
+      "ementa": "Jovem prisioneiro, Steve se uniu a Claire Redfield para sobreviver às ameaças da Umbrella em uma ilha remota."
     },
     {
       "id": 13,
       "nome": "Billy Coen",
-      "professor": "Desconhecido",
-      "area_conhecimento": "Ex-Militar / Fugitivo",
-      "carga_horaria_semanal": 1,
-      "ementa": "Ex-fuzileiro naval condenado injustamente, Billy ajuda Rebecca Chambers em Resident Evil Zero."
+      "organizacao": "Ex-Militar",
+      "habilidades_principais": "Combate militar, sobrevivência, trabalho em equipe",
+      "feitos_notaveis": "Sobrevivência em RE0, auxílio a Rebecca Chambers contra ameaças biológicas",
+      "ementa": "Ex-fuzileiro naval injustamente condenado, Billy Coen lutou ao lado de Rebecca para sobreviver em Resident Evil Zero."
     },
     {
       "id": 14,
       "nome": "Jack Krauser",
-      "professor": "Desconhecido",
-      "area_conhecimento": "Mercenário / Vilão",
-      "carga_horaria_semanal": 1,
-      "ementa": "Mercenário que trabalhou com Leon Kennedy antes de se aliar a Los Illuminados em RE4."
+      "organizacao": "Los Illuminados / Ex-Militar",
+      "habilidades_principais": "Combate corpo a corpo, táticas militares, infiltração",
+      "feitos_notaveis": "Parceria com Leon em missões passadas, traição em RE4",
+      "ementa": "Mercenário habilidoso, Krauser se voltou contra seus aliados para servir os interesses de Los Illuminados."
     },
     {
       "id": 15,
       "nome": "Ashley Graham",
-      "professor": "Desconhecido",
-      "area_conhecimento": "Civil / Resgatada",
-      "carga_horaria_semanal": 2,
-      "ementa": "Filha do presidente dos EUA, sequestrada por Los Illuminados e resgatada por Leon Kennedy em RE4."
+      "organizacao": "Nenhuma",
+      "habilidades_principais": "Sobrevivência, cooperação",
+      "feitos_notaveis": "Sobrevivência ao sequestro por Los Illuminados, resgate por Leon Kennedy",
+      "ementa": "Filha do presidente dos EUA, Ashley enfrentou perigos ao ser sequestrada e resgatada em RE4."
     },
     {
       "id": 16,
       "nome": "Sheva Alomar",
-      "professor": "Desconhecido",
-      "area_conhecimento": "BSAA",
-      "carga_horaria_semanal": 2,
-      "ementa": "Agente da BSAA que trabalha com Chris Redfield para combater o bioterrorismo na África em RE5."
+      "organizacao": "BSAA",
+      "habilidades_principais": "Combate, trabalho em equipe, investigação",
+      "feitos_notaveis": "Combate ao bioterrorismo na África, apoio a Chris Redfield em RE5",
+      "ementa": "Agente da BSAA, Sheva é uma parceira leal que enfrenta ameaças biológicas ao lado de Chris Redfield."
     },
     {
       "id": 17,
       "nome": "Jake Muller",
-      "professor": "Desconhecido",
-      "area_conhecimento": "Mercenário",
-      "carga_horaria_semanal": 1,
-      "ementa": "Filho de Albert Wesker, Jake é um mercenário que enfrenta o vírus C em RE6."
+      "organizacao": "Independente",
+      "habilidades_principais": "Combate, resistência biológica, mercenário",
+      "feitos_notaveis": "Combate ao vírus C em RE6, descoberta de imunidade viral",
+      "ementa": "Filho de Albert Wesker, Jake é um mercenário com habilidades únicas, enfrentando ameaças globais."
     },
     {
       "id": 18,
       "nome": "Ethan Winters",
-      "professor": "Desconhecido",
-      "area_conhecimento": "Civil / Protagonista",
-      "carga_horaria_semanal": 2,
-      "ementa": "Protagonista de RE7 e Village, Ethan enfrenta horrores bioterroristas em busca de sua família."
+      "organizacao": "Nenhuma",
+      "habilidades_principais": "Sobrevivência, determinação, combate",
+      "feitos_notaveis": "Confronto com a família Baker em RE7, luta contra os Quatro Lordes em RE Village",
+      "ementa": "Civil comum, Ethan enfrenta horrores bioterroristas para proteger sua família em RE7 e Village."
     },
     {
       "id": 19,
       "nome": "Mia Winters",
-      "professor": "Desconhecido",
-      "area_conhecimento": "Civil / Agente da The Connections",
-      "carga_horaria_semanal": 2,
-      "ementa": "Esposa de Ethan Winters, Mia tem ligações com a organização The Connections em RE7."
+      "organizacao": "The Connections",
+      "habilidades_principais": "Sobrevivência, conhecimento de bioarmas",
+      "feitos_notaveis": "Envolvimento com o molde em RE7, sobrevivência em RE Village",
+      "ementa": "Esposa de Ethan, Mia tem conexões obscuras com The Connections, enfrentando crises biológicas ao lado de sua família."
     },
     {
       "id": 20,
       "nome": "Lady Dimitrescu",
-      "professor": "Maggie Robertson (voz em RE Village)",
-      "area_conhecimento": "Vilã / Mutante",
-      "carga_horaria_semanal": 1,
-      "ementa": "Matriarca das filhas vampíricas, Lady Dimitrescu é uma antagonista icônica de Resident Evil Village."
+      "organizacao": "Quatro Casas",
+      "habilidades_principais": "Força sobre-humana, regeneração, liderança",
+      "feitos_notaveis": "Domínio do Castelo Dimitrescu, confronto com Ethan Winters",
+      "ementa": "Matriarca imponente das Quatro Casas, Lady Dimitrescu é uma vilã icônica de Resident Evil Village."
     },
     {
       "id": 21,
       "nome": "Rosemary Winters",
-      "professor": "Desconhecido",
-      "area_conhecimento": "Civil / Mutante",
-      "carga_horaria_semanal": 1,
-      "ementa": "Filha de Ethan e Mia, Rosemary possui habilidades especiais devido ao molde em RE Village."
+      "organizacao": "Nenhuma",
+      "habilidades_principais": "Habilidades biológicas especiais, resistência",
+      "feitos_notaveis": "Central na narrativa de RE Village, conexão com o molde",
+      "ementa": "Filha de Ethan e Mia, Rosemary possui poderes únicos devido ao molde, sendo peça-chave em RE Village."
     }
   ]
 }
